@@ -47,3 +47,5 @@ Passionate about technology.
 ## Hospedagem mais utilizada:
 
 - [Discloud](https://discloudbot.com)
+
+![Snake animation](https://github.com/Anno-Ying/Anno-Ying/blob/output/github-contribution-grid-snake.svg)
