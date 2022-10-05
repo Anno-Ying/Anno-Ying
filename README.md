@@ -26,6 +26,7 @@ Passionate about technology.
 
 ## Últimos Projetos:
 
+- [Bot SlashV14 Base](https://github.com/Anno-Ying/Bot-BASE)<br/>
 - [Purple Clouding - Discord BOT](https://discord.com/oauth2/authorize?client_id=1008542890160554066&scope=bot&permissions=27648860222)<br/>
 
 <br/>
