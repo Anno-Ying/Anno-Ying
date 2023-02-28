@@ -1,16 +1,41 @@
-### Hi there 👋
-
-<!--
-**Anno-Ying/Anno-Ying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const Data = {
+    name: "GTWZZ HT XHWQQHI MXVZZR JVNZZR",
+    age: 14,
+    location: {
+      city: "Qealurrual o mdo qu",
+      country: "Qealurrual o mdo qu"
+    },
+    occupation: "Software Studying",
+    skills: [
+      "JavaScript",
+      "Python",
+      "Node.js",
+      "MongoDB",
+      "HTML",
+      "CSS"
+    ],
+    education: [
+      {
+        fieldOfStudy: "Computer Science",
+        school: "Qealurrual o mdo qu",
+        schoolYear: 2016
+      },
+      {
+        fieldOfStudy: "Software Studying",
+        school: "Qealurrual o mdo qu",
+        schoolYear: 2016
+      }
+    ],
+    hobbies: [
+      "Playing guitar",
+      "Reading books"
+    ],
+    favorites: {
+      color: "Black",
+      food: "Miojo",
+      movie: "Ghost Rider",
+      book: "Sucesso é o destino dos disciplinados"
+    }
+  }
+  
+  console.log(Data)
